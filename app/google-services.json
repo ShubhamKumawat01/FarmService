@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337080487683",
+    "project_id": "farm-service-system",
+    "storage_bucket": "farm-service-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337080487683:android:987a47b40f33acf833e336",
+        "android_client_info": {
+          "package_name": "com.itres.farmservicesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337080487683-eqtqccd74iqrpom3l620irabs4dr0boo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JzJbjPG8IxktARAJCA4YPnqzRWK0bi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337080487683-eqtqccd74iqrpom3l620irabs4dr0boo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
